@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46811f58-8ae3-48a7-bbce-a98ec3380310" name="Default Changelist" comment="" />
+    <list default="true" id="46811f58-8ae3-48a7-bbce-a98ec3380310" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2_feature_scaling_L1L2_stochastic_gradient_descent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_linear_regression_gradiend_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_linear_regression_gradiend_descent.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +52,12 @@
       <updated>1606398419100</updated>
       <workItem from="1606398420294" duration="42000" />
       <workItem from="1606398464140" duration="3463000" />
+      <workItem from="1606921020238" duration="699000" />
+      <workItem from="1607002038974" duration="849000" />
+      <workItem from="1607003948192" duration="1852000" />
+      <workItem from="1607005826320" duration="1717000" />
+      <workItem from="1607009098067" duration="1699000" />
+      <workItem from="1608637681085" duration="17000" />
     </task>
     <servers />
   </component>
