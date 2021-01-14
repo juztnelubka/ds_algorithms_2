@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46811f58-8ae3-48a7-bbce-a98ec3380310" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_feature_scaling_L1L2_stochastic_gradient_descent.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_linear_regression_gradiend_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_linear_regression_gradiend_descent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_feature_scaling_L1L2_stochastic_gradient_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_feature_scaling_L1L2_stochastic_gradient_descent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_logistic_regression_log_loss.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_logistic_regression_log_loss.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ds_algorithms_2" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,6 +62,10 @@
       <workItem from="1607005826320" duration="1717000" />
       <workItem from="1607009098067" duration="1699000" />
       <workItem from="1608637681085" duration="17000" />
+      <workItem from="1610436409822" duration="12567000" />
+      <workItem from="1610522607380" duration="2699000" />
+      <workItem from="1610619770857" duration="5782000" />
+      <workItem from="1610634701152" duration="5416000" />
     </task>
     <servers />
   </component>
